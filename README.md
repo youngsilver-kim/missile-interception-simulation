@@ -31,7 +31,4 @@ missile-interception-simulation/
 ├─ index.html
 ├─ style.css
 ├─ script.js
-├─ README.md
-└─ assets/
-   ├─ preview.png
-   └─ demo.gif
+└─ README.md
